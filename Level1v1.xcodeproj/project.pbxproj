@@ -15,6 +15,7 @@
 		074EC47B23B4F55100142623 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 074EC47923B4F55100142623 /* LaunchScreen.storyboard */; };
 		074EC48623B4F55200142623 /* Level1v1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 074EC48523B4F55200142623 /* Level1v1Tests.swift */; };
 		074EC49123B4F55200142623 /* Level1v1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 074EC49023B4F55200142623 /* Level1v1UITests.swift */; };
+		074EC49F23B4FA1B00142623 /* QuizBrain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 074EC49E23B4FA1B00142623 /* QuizBrain.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		074EC48C23B4F55200142623 /* Level1v1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Level1v1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		074EC49023B4F55200142623 /* Level1v1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Level1v1UITests.swift; sourceTree = "<group>"; };
 		074EC49223B4F55200142623 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		074EC49E23B4FA1B00142623 /* QuizBrain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuizBrain.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				074EC47723B4F55100142623 /* Assets.xcassets */,
 				074EC47923B4F55100142623 /* LaunchScreen.storyboard */,
 				074EC47C23B4F55100142623 /* Info.plist */,
+				074EC49E23B4FA1B00142623 /* QuizBrain.swift */,
 			);
 			path = Level1v1;
 			sourceTree = "<group>";
@@ -262,6 +265,7 @@
 				074EC47323B4F55000142623 /* ViewController.swift in Sources */,
 				074EC46F23B4F55000142623 /* AppDelegate.swift in Sources */,
 				074EC47123B4F55000142623 /* SceneDelegate.swift in Sources */,
+				074EC49F23B4FA1B00142623 /* QuizBrain.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
